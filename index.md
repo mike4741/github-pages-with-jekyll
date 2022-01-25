@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+Hi , I'am Mike
 ---
 
-I'm glad you are here. I plan to talk about ...
+Java Full Stack Developer 
+--
+
+High level exprianced in web design and developement knowledge, prducing quality work 
